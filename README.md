@@ -1,0 +1,1 @@
+Project done following a tutorial on how to create a login system with Node, express, JWT and MySql
